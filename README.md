@@ -10,7 +10,7 @@
 
 ## Скачать APK
 
-[![Download APK](https://img.shields.io/badge/Download-APK-50C8FF?style=for-the-badge&logo=android)](https://github.com/xx-arteeem-xx/flutter-lab-3/releases/latest/download/app-release.apk)
+[![Download APK](https://img.shields.io/badge/Download-APK-50C8FF?style=for-the-badge&logo=android)](https://github.com/xx-arteeem-xx/flutter-lab-3/releases/latest/download/flutter-cafe.apk)
 
 ---
 
